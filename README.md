@@ -3,7 +3,7 @@ Index-html Plugin for apache nutch 2.x
 
 Index HTML content of the pages in Apaache Nutch 2.x ( 2.2.1 )
 
-####Instruction: 
+##Instruction: 
 
 - ###Compile from Source
 
@@ -53,6 +53,9 @@ Index HTML content of the pages in Apaache Nutch 2.x ( 2.2.1 )
   - In The repo there is Build folder contain compiled .jar library ready for use. 
   - Copy the library to your runtime path local if you are running the plugin locally ( apache-nutch-2.2.1/runtime/local/plugins ) Then follow the above steps to configure nutch-sites.xml
   
+
+###Screen Shot 
+![Screen Shot](http://i.imgur.com/rPWAcoQ.png)
 
 ## Need Help ?
 
